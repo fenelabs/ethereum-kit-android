@@ -1,4 +1,4 @@
-package io.horizontalsystems.erc20kit;
+package io.fenelabs.erc20kit;
 
 import android.content.Context;
 import org.junit.Test;
@@ -19,6 +19,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("io.horizontalsystems.erc20kit.test", appContext.getPackageName());
+        assertEquals("io.fenelabs.erc20kit.test", appContext.getPackageName());
     }
 }

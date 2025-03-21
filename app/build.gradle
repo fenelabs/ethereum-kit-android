@@ -7,7 +7,7 @@ plugins {
 android {
     compileSdkVersion 32
     defaultConfig {
-        applicationId "io.horizontalsystems.ethereumkit"
+        applicationId "io.fenelabs.ethereumkit"
         minSdkVersion 26
         targetSdkVersion 32
         versionCode 1
